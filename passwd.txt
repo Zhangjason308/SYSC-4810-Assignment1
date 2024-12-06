@@ -1,0 +1,3 @@
+jason, $2b$12$xtDrxgKhQv7Cbc9Mz8ZxF.Qiv1LZeORcDope3u/prh/DNmPExI7oG, Client
+jason22, $2b$12$sceiKwxpQgUnaXayR55PK.HgB7gsp5o4eJ92G3MyPAyIyvsyovd9., Client
+jo, $2b$12$BR8GouMDHchRruI9zGLg1.pW/x3o3gO58DOC26F3/IXlkC/iVpwFy, Teller
