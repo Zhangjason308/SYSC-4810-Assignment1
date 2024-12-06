@@ -13,9 +13,13 @@
 3. Type "python3 --version" to verify that python3 is installed
 4. Optional: if bcrypt is not found, install bcrypt by typing "pip3 install bcrypt" in the terminal
 5. Locate to the path of the unzipped folder in the terminal
-6. Run the command "python3 main.py" to run the program
-7. Run the command "python3 -m unittest discover -s tests -p "*_test.py" -v" to run all the tests at Once, or
-    run each individual test using the command ex: "python3 -m unittest -v test_module/problem1_test.py"
+6. Run the command to run the program: 
+   -  **python3 main.py**
+7. Run the command to run all tests at once:
+   -  **python3 -m unittest discover -s test_module -p "*_test.py" -v**
+    
+   Or run each individual test using the command example to run problem1_test.py: 
+   -  **python3 -m unittest -v test_module/problem1_test.py**
 
 #### justInvest app
 This app will be displayed as a CLI interface, displaying the app homepage as well as all the possible operations
